@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
+
+Lib/
+Scripts/
+share/
+etc/
+
+*.pyc
